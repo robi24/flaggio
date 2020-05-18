@@ -30,7 +30,7 @@
     "@apollo/react-hooks": "3.1.5",
     "@material-ui/core": "4.9.12",
     "@material-ui/icons": "4.9.1",
-    "@material-ui/styles": "4.9.10",
+    "@material-ui/styles": "4.9.14",
     "@sindresorhus/slugify": "0.11.0",
     "apollo-boost": "0.4.7",
     "clsx": "1.1.0",
